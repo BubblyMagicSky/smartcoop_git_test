@@ -1,1 +1,1 @@
-Das ist Git-Test
+Git test
